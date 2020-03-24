@@ -46,4 +46,4 @@ deploy:
   skip_cleanup: true
   on:
     tags: true
-    repo: node-ffi-napi/node-ffi-napi
+    repo: httptoolkit/node-ffi-napi

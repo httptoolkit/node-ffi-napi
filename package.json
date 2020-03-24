@@ -1,6 +1,6 @@
 {
-  "name": "ffi-napi",
-  "version": "2.4.7",
+  "name": "@httptoolkit/ffi-napi",
+  "version": "2.5.0-test",
   "license": "MIT",
   "author": "Anna Henningsen <anna@addaleax.net>",
   "contributors": [
@@ -49,9 +49,9 @@
   },
   "repository": {
     "type": "git",
-    "url": "http://github.com/node-ffi-napi/node-ffi-napi.git"
+    "url": "http://github.com/httptoolkit/node-ffi-napi.git"
   },
   "bugs": {
-    "url": "http://github.com/node-ffi-napi/node-ffi-napi/issues"
+    "url": "http://github.com/httptoolkit/node-ffi-napi/issues"
   }
 }
